@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/BattleBlaster/Content/Blueprints/Projectile/BP_Projectile.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/BattleBlaster/Content/Blueprints/Characters/BP_Tank.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/BattleBlaster/Content/Blueprints/Characters/BP_Tower.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/BattleBlaster/Content/Blueprints/Effects/BP_HitCameraShake.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/BattleBlaster/Content/Blueprints/Effects/BP_DeathCameraShake.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Maps/Level_1.umap",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Blueprints/Characters/BP_Tank.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Blueprints/BP_GameModeBase.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Inputs/IMC_Default.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Inputs/InputActions/IA_Move.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Inputs/InputActions/IA_Turn.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Blueprints/Characters/BP_Tower.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Inputs/InputActions/IA_Fire.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Blueprints/Projectile/BP_Projectile.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Blueprints/Characters/BP_BattleBlasterPlayerController.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Blueprints/BP_BattleBlasterGameInstance.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Maps/Level_2.umap",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Maps/Level_3.umap",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Dev/BattleBlaster/Content/Blueprints/Widget/WBP_ScreenMessage.uasset",
+				"D:/Projects/Unreal 5 Project/UE_GameDevCourse/Unreal Engine 5 C++ Game Development (Updated 5.6)/BattleBlaster/Content/Maps/Level_1.umap"
+			]
+		}
+	]
+}

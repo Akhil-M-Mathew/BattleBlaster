@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleBlaster",
+			"Path": "..\\Source\\BattleBlaster.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleBlasterEditor",
+			"Path": "..\\Source\\BattleBlasterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

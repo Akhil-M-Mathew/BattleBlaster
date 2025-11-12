@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourse\\Unreal Engine 5 C++ Game Dev\\BattleBlaster\\BattleBlaster\\Source\\BattleBlaster\\BattleBlaster.Build.cs",
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourse\\Unreal Engine 5 C++ Game Dev\\BattleBlaster\\BattleBlaster\\Source\\BattleBlaster.Target.cs",
+		"D:\\Projects\\Unreal 5 Project\\UE_GameDevCourse\\Unreal Engine 5 C++ Game Dev\\BattleBlaster\\BattleBlaster\\Source\\BattleBlasterEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
